@@ -1,2 +1,2 @@
 # ms-identity-web
-Autenticación Azure AD
+Autenticación Azure AD desde Python Django
